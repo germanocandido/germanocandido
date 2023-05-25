@@ -16,3 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=germanocandido&show_icons=true&theme=radical&locale=en" alt="germanocandido" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germanocandido&theme=dark" alt="germanocandido" /></p>
+
+
+![snake gif](https://github.com/germanocandido/germanocandido/blob/output/github-contribution-grid-snake.svg)
