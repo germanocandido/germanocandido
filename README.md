@@ -1,5 +1,6 @@
-<h1 align="center">Olá 👋, Eu sou Germano Candido</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Olá 👋<br> Eu sou Germano Candido</h1>
+<h2 align="center">Analista de Infraestrutura de TI / DevOps</h2>
+<h4 align="center">👾"Busque conhecimento" Et.Bilu👾</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=germanocandido&label=Profile%20views&color=2a2f32&style=plastic" alt="germanocandido" /> </p>
 
